@@ -1,6 +1,6 @@
 # 🧮 Age Calculator Website
 
-A simple Java-based web application that calculates a person's age based on their date of birth.
+A simple html web application that calculates a person's age based on their date of birth.
 
 ---
 
